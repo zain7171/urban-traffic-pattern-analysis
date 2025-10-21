@@ -8,7 +8,7 @@ This project explores real-world traffic data to uncover insights about vehicle 
 - Derived insights to understand how weather and time affect road safety  
 
 ## Tools & Libraries
-- Python 3.x  
+- Python 3.13.7
 - Pandas  
 - Matplotlib  
 - Seaborn  
