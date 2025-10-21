@@ -16,7 +16,7 @@ This project explores real-world traffic data to uncover insights about vehicle 
 ## Files in this Repository
 | File | Description |
 |------|--------------|
-| `traffic_analysis_project.ipynb` | Jupyter Notebook with full code and analysis |
+| `traffic_pattern.ipynb` | Jupyter Notebook with full code and analysis |
 | `traffic_data.csv` | Dataset used for analysis |
 | `requirements.txt` | Python libraries required to run the notebook |
 | `README.md` | Project description (this file) |
